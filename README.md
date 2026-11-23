@@ -7,7 +7,7 @@ Plugin pro TeamSpeak bota. Nejmenší plugin: `!roll` hodí kostkou (`!roll 20` 
 Soukromá zpráva botovi:
 
 ```
-!service install dice
+!service install github.com/rowdy4e/ts3bot-dice
 ```
 
 Bot ukáže, co plugin dělá a co smí, a nainstaluje ho až po tvém „ano“.
