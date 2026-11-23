@@ -1,6 +1,6 @@
 # The smallest plugin: a !command in bash, no internet, no bot tools - what it prints is the answer.
 name: dice
-description: Hodí kostkou - !roll, nebo !roll 20 pro dvacetistěnnou.
-version: 1.0.0
+description: Rolls a die - !roll, or !roll 20 for a twenty-sided one.
+version: 1.1.0
 when:
   command: roll

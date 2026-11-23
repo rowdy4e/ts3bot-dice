@@ -1,15 +1,16 @@
 # ts3bot-dice
 
-Plugin pro TeamSpeak bota. Nejmenší plugin: `!roll` hodí kostkou (`!roll 20` dvacetistěnnou). V bashi, bez internetu a bez nástrojů bota - co vypíše, je odpověď.
+A plugin for the TeamSpeak bot - the smallest one: `!roll` rolls a die (`!roll 20` a twenty-sided one). In bash,
+with no internet and no bot tools: what it prints is the answer.
 
-## Instalace
+## Install
 
-Soukromá zpráva botovi:
+Send the bot a private message:
 
 ```
 !service install github.com/rowdy4e/ts3bot-dice
 ```
 
-Bot ukáže, co plugin dělá a co smí, a nainstaluje ho až po tvém „ano“.
+The bot shows what the plugin does and what it may do, and installs it only after you reply "yes".
 
-Jak plugin napsat: [ts3bot-plugin-template](https://github.com/rowdy4e/ts3bot-plugin-template).
+How to write a plugin: [ts3bot-plugin-template](https://github.com/rowdy4e/ts3bot-plugin-template).
